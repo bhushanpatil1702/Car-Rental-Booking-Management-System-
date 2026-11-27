@@ -1,0 +1,11 @@
+# Maven build output
+target/
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local database credentials
+src/main/resources/database.properties
